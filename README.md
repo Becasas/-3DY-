@@ -1,6 +1,6 @@
 # 裸眼3D跃屏实现工程（开发版）
 ## 使用
-打开 ./BiRefNet_ex/project.py 开始处理，有比较详细的注释
+打开 ./BiRefNet_ex/project.py 开始处理，有比较详细的注释  
 使用的双边参考网络预训练模型在 https://github.com/ZhengPeng7/BiRefNet 内下载
 
 ## 功能
